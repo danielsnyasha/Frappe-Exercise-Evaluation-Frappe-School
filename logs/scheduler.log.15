@@ -1,0 +1,14 @@
+2023-05-04 07:20:38,269 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 07:20:40,603 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 07:20:41,207 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 07:20:42,377 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 07:20:42,916 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 07:20:44,180 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 07:20:44,685 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 07:20:46,680 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 07:20:47,260 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 07:20:49,264 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 07:20:49,923 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 07:20:53,033 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 07:20:53,710 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 07:20:55,485 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com

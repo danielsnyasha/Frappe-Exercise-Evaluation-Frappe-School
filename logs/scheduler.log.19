@@ -1,0 +1,15 @@
+2023-05-04 04:01:17,319 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 04:01:17,794 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 04:01:19,266 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 04:01:19,674 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 04:01:21,084 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 04:01:21,502 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 04:01:22,502 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 04:01:22,911 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.teleport13.com
+2023-05-04 04:01:24,670 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.teleport13.com
+2023-05-04 04:01:25,099 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.teleport13.com
+2023-05-04 04:01:26,982 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.teleport13.com
+2023-05-04 04:01:27,414 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 04:01:29,156 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 04:01:29,682 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp.teleport13.com
+2023-05-04 04:01:31,258 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp.teleport13.com

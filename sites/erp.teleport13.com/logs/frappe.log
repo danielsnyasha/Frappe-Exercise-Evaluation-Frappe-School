@@ -1,0 +1,18 @@
+2023-05-04 09:52:38,569 ERROR frappe New Exception collected with id: 2023-05-04 09:52:37.394028-127.0.0.1-104
+Site: erp.teleport13.com
+Form Dict: {'report_name': 'Trainer Subscription Report', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2023-05-04 09:59:39,880 ERROR frappe New Exception collected with id: 2023-05-04 09:59:39.830229-127.0.0.1-229
+Site: erp.teleport13.com
+Form Dict: {'report_name': 'Trainer Subscription Report', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2023-05-04 10:03:05,692 ERROR frappe New Exception collected with id: 2023-05-04 10:03:05.628984-127.0.0.1-88e
+Site: erp.teleport13.com
+Form Dict: {'report_name': 'Trainer Subscription Report', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2023-05-04 10:12:05,505 ERROR frappe New Exception collected with id: 2023-05-04 10:12:05.441833-127.0.0.1-8e1
+Site: erp.teleport13.com
+Form Dict: {'report_name': 'Trainer Subscription Report', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2023-05-04 11:13:54,020 ERROR frappe New Exception collected with id: 2023-05-04 11:13:53.986808-127.0.0.1-956
+Site: erp.teleport13.com
+Form Dict: {'report_name': 'Trainer Subscription Report', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2023-05-04 17:24:25,939 ERROR frappe New Exception collected with id: 2023-05-04 17:24:25.225533-127.0.0.1-88e
+Site: erp.teleport13.com
+Form Dict: {'report_name': 'Test Payment Verification', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}

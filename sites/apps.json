@@ -1,0 +1,31 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "13.56.0"
+    },
+    "erpnext": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "784ea7cf48b296d0ff0f73db1ed279767c54b329",
+            "branch": "version-13"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "13.49.14"
+    },
+    "gymmanagementsystem": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "4e2ed51e62350bbda6b337e40b03e00f0d04a922",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    }
+}

@@ -1,0 +1,455 @@
+2023-05-04 19:01:46,200 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:01:47,869 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 19:01:49,643 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 19:01:50,122 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp.teleport13.com
+2023-05-04 19:01:52,055 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp.teleport13.com
+2023-05-04 19:01:52,520 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for erp.teleport13.com
+2023-05-04 19:01:54,759 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for erp.teleport13.com
+2023-05-04 19:02:47,706 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:03:49,228 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:04:50,681 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:04:51,265 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:04:52,298 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:04:52,730 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:04:53,984 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:04:54,405 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:04:55,507 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:04:55,958 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:04:57,599 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:04:58,014 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:04:58,921 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:04:59,322 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:05:00,195 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:05:00,591 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:05:02,100 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:05:02,500 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:05:03,828 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:05:04,295 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:05:05,852 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:05:06,291 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:05:07,301 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:05:52,713 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:05:52,817 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:05:54,317 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:06:55,040 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:07:56,445 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:08:57,916 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:08:58,485 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:08:59,547 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:09:00,016 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:09:01,341 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:09:01,747 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:09:02,823 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:09:03,241 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:09:04,842 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:09:05,323 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:09:06,289 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:09:06,733 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:09:07,678 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:09:08,140 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:09:09,790 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:09:10,228 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:09:11,794 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:09:12,307 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:09:14,053 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:09:14,513 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:09:15,630 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:10:00,352 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:11:01,742 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:11:01,767 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:11:03,482 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:12:03,480 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:12:04,494 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:12:05,817 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:12:06,463 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:12:07,993 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:12:08,410 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:12:09,479 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:12:09,910 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:12:11,435 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:12:11,846 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:12:12,740 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:12:13,176 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:12:14,223 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:12:14,781 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:12:16,990 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:12:17,436 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:12:19,665 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:12:20,173 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:12:22,625 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:12:23,079 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:12:24,650 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:13:06,767 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:14:08,234 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:15:09,978 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:15:10,511 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:15:12,691 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:15:13,541 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.teleport13.com
+2023-05-04 19:15:17,254 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.teleport13.com
+2023-05-04 19:15:17,918 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.teleport13.com
+2023-05-04 19:15:21,126 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.teleport13.com
+2023-05-04 19:15:21,852 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 19:15:23,848 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 19:16:11,877 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:16:12,276 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:16:13,259 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:16:13,658 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:16:14,858 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:16:15,257 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:16:16,298 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:16:16,702 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:16:18,214 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:16:18,619 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:16:19,485 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:16:19,933 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:16:20,827 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:16:21,235 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:16:22,752 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:16:23,165 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:16:24,475 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:16:24,879 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:16:26,298 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:16:26,702 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:16:27,707 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:17:13,784 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:18:15,183 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:19:16,527 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:20:17,844 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:20:18,269 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:20:19,313 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:20:19,731 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:20:21,127 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:20:21,676 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:20:22,863 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:20:23,258 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:20:25,040 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:20:25,585 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:20:27,231 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:20:27,663 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:20:28,536 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:20:28,940 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:20:29,819 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:20:30,230 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:20:31,770 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:20:32,184 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:20:33,572 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:20:34,020 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:20:35,588 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:20:36,075 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:20:37,133 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:21:19,874 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:22:21,245 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:23:22,592 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:24:23,972 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:24:24,333 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:24:25,451 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:24:25,892 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:24:27,199 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:24:27,609 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:24:28,700 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:24:29,105 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:24:30,650 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:24:31,093 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:24:32,087 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:24:32,518 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:24:33,458 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:24:33,908 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:24:35,533 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:24:35,986 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:24:37,358 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:24:37,797 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:24:39,336 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:24:39,794 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:24:40,828 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:25:25,856 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:25:25,934 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:25:27,502 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:26:27,471 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:27:28,901 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:28:30,164 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:28:30,554 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:28:31,514 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:28:31,929 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:28:33,128 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:28:33,535 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:28:34,574 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:28:34,992 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:28:36,500 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:28:36,903 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:28:37,776 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:28:38,178 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:28:39,069 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:28:39,490 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:28:41,040 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:28:41,436 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:28:42,717 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:28:43,120 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:28:44,530 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:28:44,932 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:28:45,924 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:29:32,224 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:30:33,946 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for erp.teleport13.com
+2023-05-04 19:30:34,298 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:30:36,408 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for erp.teleport13.com
+2023-05-04 19:30:36,939 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for erp.teleport13.com
+2023-05-04 19:30:39,242 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for erp.teleport13.com
+2023-05-04 19:30:39,781 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:30:41,643 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:30:42,129 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.teleport13.com
+2023-05-04 19:30:44,251 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.teleport13.com
+2023-05-04 19:30:44,717 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.teleport13.com
+2023-05-04 19:30:46,795 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.teleport13.com
+2023-05-04 19:30:47,234 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 19:30:49,001 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 19:31:35,888 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:32:37,424 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:32:38,070 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:32:39,335 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:32:39,941 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:32:42,045 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:32:42,879 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:32:44,437 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:32:45,025 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:32:47,370 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:32:48,059 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:32:49,765 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:32:50,400 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:32:51,603 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:32:52,022 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:32:54,170 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:32:54,691 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:32:56,216 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:32:56,761 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:32:58,929 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:32:59,754 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:33:01,430 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:33:39,569 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:34:40,943 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:35:42,297 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:35:42,368 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:35:43,909 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:36:44,117 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:36:44,604 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:36:45,976 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:36:46,494 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:36:48,711 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:36:49,526 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:36:51,671 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:36:52,406 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:36:55,419 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:36:56,214 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:36:58,114 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:36:58,747 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:37:00,233 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:37:00,829 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:37:03,327 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:37:03,916 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:37:06,093 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:37:06,720 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:37:08,439 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:37:09,140 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:37:10,977 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:37:46,438 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:38:48,015 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:39:49,588 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:40:51,029 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:40:51,527 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:40:52,434 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:40:52,857 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:40:54,086 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:40:54,485 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:40:55,712 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:40:56,176 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:40:57,803 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:40:58,232 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:40:59,877 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:41:00,302 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:41:01,210 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:41:01,722 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:41:02,711 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:41:03,170 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:41:04,902 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:41:05,340 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:41:06,761 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:41:07,257 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:41:08,716 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:41:09,152 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:41:10,269 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:41:53,017 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:42:54,475 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:43:55,819 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:44:57,361 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:44:57,845 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:44:59,061 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:44:59,582 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:45:01,056 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:45:01,741 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:45:03,414 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:45:03,913 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:45:06,616 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:45:07,267 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:45:08,869 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:45:09,358 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:45:10,538 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:45:10,961 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:45:12,919 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:45:13,564 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:45:15,542 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:45:16,189 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:45:17,896 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:45:18,374 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:45:19,635 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:45:59,464 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:45:59,773 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:46:01,333 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:46:01,793 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.teleport13.com
+2023-05-04 19:46:03,824 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.teleport13.com
+2023-05-04 19:46:04,300 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.teleport13.com
+2023-05-04 19:46:06,528 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.teleport13.com
+2023-05-04 19:46:06,976 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 19:46:08,978 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 19:47:01,250 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:48:02,539 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:48:02,950 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:48:03,907 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:48:04,319 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:48:05,526 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:48:05,922 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:48:06,970 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:48:07,373 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:48:08,854 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:48:09,268 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:48:10,154 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:48:10,584 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:48:11,490 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:48:11,899 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:48:13,439 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:48:13,858 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:48:15,232 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:48:15,689 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:48:17,122 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:48:17,526 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:48:18,542 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:49:04,488 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:50:05,825 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:50:05,894 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:50:07,379 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:51:07,384 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:52:08,762 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:52:09,043 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:52:10,110 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:52:10,517 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:52:11,761 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:52:12,202 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:52:13,271 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:52:13,728 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:52:15,294 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:52:15,713 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:52:16,589 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:52:17,001 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:52:17,871 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:52:18,302 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:52:19,852 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:52:20,266 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:52:21,587 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:52:21,999 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:52:23,409 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:52:23,817 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:52:24,837 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:53:10,519 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:54:12,298 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:55:13,920 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:55:13,940 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:55:15,801 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 19:56:15,664 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:56:16,331 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:56:17,471 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 19:56:17,942 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:56:19,223 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 19:56:19,736 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:56:20,805 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 19:56:21,262 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:56:23,000 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 19:56:23,428 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:56:24,395 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 19:56:24,841 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:56:25,789 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 19:56:26,284 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:56:28,008 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 19:56:28,421 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:56:29,917 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 19:56:30,356 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:56:32,115 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 19:56:32,538 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:56:33,781 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 19:57:17,903 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:58:19,555 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 19:59:20,935 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 20:00:21,897 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for erp.teleport13.com
+2023-05-04 20:00:24,274 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for erp.teleport13.com
+2023-05-04 20:00:24,601 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 20:00:24,731 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for erp.teleport13.com
+2023-05-04 20:00:26,895 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for erp.teleport13.com
+2023-05-04 20:00:27,324 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for erp.teleport13.com
+2023-05-04 20:00:29,258 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for erp.teleport13.com
+2023-05-04 20:00:29,697 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for erp.teleport13.com
+2023-05-04 20:00:31,555 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for erp.teleport13.com
+2023-05-04 20:00:31,985 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for erp.teleport13.com
+2023-05-04 20:00:34,019 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for erp.teleport13.com
+2023-05-04 20:00:34,469 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for erp.teleport13.com
+2023-05-04 20:00:36,626 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for erp.teleport13.com
+2023-05-04 20:00:37,056 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for erp.teleport13.com
+2023-05-04 20:00:38,788 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for erp.teleport13.com
+2023-05-04 20:00:39,207 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for erp.teleport13.com
+2023-05-04 20:00:40,723 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for erp.teleport13.com
+2023-05-04 20:00:41,199 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 20:00:42,522 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.teleport13.com
+2023-05-04 20:00:42,915 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 20:00:44,126 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.teleport13.com
+2023-05-04 20:00:44,691 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 20:00:46,202 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.teleport13.com
+2023-05-04 20:00:46,837 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 20:00:48,546 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.teleport13.com
+2023-05-04 20:00:48,978 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for erp.teleport13.com
+2023-05-04 20:00:52,673 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for erp.teleport13.com
+2023-05-04 20:00:53,479 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 20:00:55,909 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for erp.teleport13.com
+2023-05-04 20:00:56,367 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for erp.teleport13.com
+2023-05-04 20:00:58,196 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for erp.teleport13.com
+2023-05-04 20:00:58,631 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for erp.teleport13.com
+2023-05-04 20:01:01,457 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for erp.teleport13.com
+2023-05-04 20:01:01,895 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for erp.teleport13.com
+2023-05-04 20:01:03,997 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for erp.teleport13.com
+2023-05-04 20:01:04,649 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for erp.teleport13.com
+2023-05-04 20:01:08,346 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for erp.teleport13.com
+2023-05-04 20:01:09,239 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for erp.teleport13.com
+2023-05-04 20:01:12,232 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for erp.teleport13.com
+2023-05-04 20:01:12,882 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for erp.teleport13.com
+2023-05-04 20:01:15,860 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for erp.teleport13.com
+2023-05-04 20:01:16,612 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for erp.teleport13.com
+2023-05-04 20:01:19,014 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for erp.teleport13.com
+2023-05-04 20:01:19,637 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for erp.teleport13.com
+2023-05-04 20:01:22,309 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for erp.teleport13.com
+2023-05-04 20:01:23,016 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 20:01:24,608 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.teleport13.com
+2023-05-04 20:01:25,497 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 20:01:27,340 DEBUG scheduler Queued events for site erp.teleport13.com
+2023-05-04 20:01:27,592 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.teleport13.com
+2023-05-04 20:01:28,173 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 20:01:30,555 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.teleport13.com
+2023-05-04 20:01:31,020 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 20:01:32,501 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.teleport13.com
+2023-05-04 20:01:33,000 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 20:01:35,396 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.teleport13.com
+2023-05-04 20:01:36,270 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 20:01:38,016 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.teleport13.com
+2023-05-04 20:01:38,585 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.teleport13.com
+2023-05-04 20:01:40,741 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.teleport13.com
+2023-05-04 20:01:41,207 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.teleport13.com
+2023-05-04 20:01:43,600 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.teleport13.com
+2023-05-04 20:01:44,033 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 20:01:45,811 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.teleport13.com
+2023-05-04 20:01:46,239 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp.teleport13.com
+2023-05-04 20:01:47,826 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp.teleport13.com
+2023-05-04 20:01:48,325 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for erp.teleport13.com
+2023-05-04 20:01:50,396 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for erp.teleport13.com

@@ -1,0 +1,1 @@
+https://github.com/frappe/python-pdfkit.git#egg=pdfkit

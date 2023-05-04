@@ -1,0 +1,174 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230427_170007-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-27 17:00:22.447029
+Config  : ./erp.teleport13.com/private/backups/20230427_170007-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230427_170007-erp_teleport13_com-database.sql.gz         1.3MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230427_230006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-27 23:00:21.610335
+Config  : ./erp.teleport13.com/private/backups/20230427_230006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230427_230006-erp_teleport13_com-database.sql.gz         1.3MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230428_050009-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-28 05:00:25.806624
+Config  : ./erp.teleport13.com/private/backups/20230428_050009-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230428_050009-erp_teleport13_com-database.sql.gz         1.4MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230428_110007-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-28 11:00:23.209330
+Config  : ./erp.teleport13.com/private/backups/20230428_110007-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230428_110007-erp_teleport13_com-database.sql.gz         1.4MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230428_170006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-28 17:00:22.833910
+Config  : ./erp.teleport13.com/private/backups/20230428_170006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230428_170006-erp_teleport13_com-database.sql.gz         1.4MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230428_230006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-28 23:00:22.143987
+Config  : ./erp.teleport13.com/private/backups/20230428_230006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230428_230006-erp_teleport13_com-database.sql.gz         1.4MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230429_050006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-29 05:00:22.204714
+Config  : ./erp.teleport13.com/private/backups/20230429_050006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230429_050006-erp_teleport13_com-database.sql.gz         1.4MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230429_110007-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-29 11:00:23.058324
+Config  : ./erp.teleport13.com/private/backups/20230429_110007-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230429_110007-erp_teleport13_com-database.sql.gz         1.4MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230429_170007-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-29 17:00:23.090219
+Config  : ./erp.teleport13.com/private/backups/20230429_170007-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230429_170007-erp_teleport13_com-database.sql.gz         1.4MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230429_230006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-29 23:00:22.757793
+Config  : ./erp.teleport13.com/private/backups/20230429_230006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230429_230006-erp_teleport13_com-database.sql.gz         1.4MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230430_050006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-30 05:00:21.922888
+Config  : ./erp.teleport13.com/private/backups/20230430_050006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230430_050006-erp_teleport13_com-database.sql.gz         1.4MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230430_110006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-30 11:00:25.693108
+Config  : ./erp.teleport13.com/private/backups/20230430_110006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230430_110006-erp_teleport13_com-database.sql.gz         1.4MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230430_170007-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-30 17:00:23.159985
+Config  : ./erp.teleport13.com/private/backups/20230430_170007-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230430_170007-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230430_230009-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-04-30 23:00:26.921876
+Config  : ./erp.teleport13.com/private/backups/20230430_230009-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230430_230009-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230501_050006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-01 05:00:22.393836
+Config  : ./erp.teleport13.com/private/backups/20230501_050006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230501_050006-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230501_110006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-01 11:00:22.055650
+Config  : ./erp.teleport13.com/private/backups/20230501_110006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230501_110006-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230501_170006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-01 17:00:23.131640
+Config  : ./erp.teleport13.com/private/backups/20230501_170006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230501_170006-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230501_230007-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-01 23:00:23.622840
+Config  : ./erp.teleport13.com/private/backups/20230501_230007-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230501_230007-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230502_050006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-02 05:00:21.980544
+Config  : ./erp.teleport13.com/private/backups/20230502_050006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230502_050006-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230502_110006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-02 11:00:22.411662
+Config  : ./erp.teleport13.com/private/backups/20230502_110006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230502_110006-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230502_170006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-02 17:00:22.029797
+Config  : ./erp.teleport13.com/private/backups/20230502_170006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230502_170006-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230502_230007-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-02 23:00:22.903565
+Config  : ./erp.teleport13.com/private/backups/20230502_230007-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230502_230007-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230503_050007-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-03 05:00:23.654624
+Config  : ./erp.teleport13.com/private/backups/20230503_050007-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230503_050007-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230503_110006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-03 11:00:23.094938
+Config  : ./erp.teleport13.com/private/backups/20230503_110006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230503_110006-erp_teleport13_com-database.sql.gz         1.5MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230503_170007-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-03 17:00:22.919121
+Config  : ./erp.teleport13.com/private/backups/20230503_170007-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230503_170007-erp_teleport13_com-database.sql.gz         1.6MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230503_230007-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-03 23:00:22.734194
+Config  : ./erp.teleport13.com/private/backups/20230503_230007-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230503_230007-erp_teleport13_com-database.sql.gz         1.6MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230504_050006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-04 05:00:22.389155
+Config  : ./erp.teleport13.com/private/backups/20230504_050006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230504_050006-erp_teleport13_com-database.sql.gz         1.6MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230504_110006-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-04 11:00:21.684226
+Config  : ./erp.teleport13.com/private/backups/20230504_110006-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230504_110006-erp_teleport13_com-database.sql.gz         1.6MiB
+Backup for Site erp.teleport13.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _316049dece150a17 -p********** _316049dece150a17 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.teleport13.com/private/backups/20230504_170010-erp_teleport13_com-database.sql.gz
+
+Backup Summary for erp.teleport13.com at 2023-05-04 17:00:27.807706
+Config  : ./erp.teleport13.com/private/backups/20230504_170010-erp_teleport13_com-site_config_backup.json 212.0B
+Database: ./erp.teleport13.com/private/backups/20230504_170010-erp_teleport13_com-database.sql.gz         1.6MiB
+Backup for Site erp.teleport13.com has been successfully completed

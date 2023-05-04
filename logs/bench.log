@@ -1,0 +1,144 @@
+2023-04-27 14:52:26,506 DEBUG cd erpnext_user && python3 -m venv env
+2023-04-27 14:52:36,071 DEBUG cd erpnext_user && /home/benches/erpnext_user/env/bin/python -m pip install --quiet --upgrade pip
+2023-04-27 14:52:50,764 DEBUG cd erpnext_user && /home/benches/erpnext_user/env/bin/python -m pip install --quiet wheel
+2023-04-27 14:52:55,384 LOG Getting frappe
+2023-04-27 14:52:55,385 DEBUG cd erpnext_user/apps && git clone https://github.com/frappe/frappe.git --branch version-13 --depth 1 --origin upstream
+2023-04-27 14:53:03,530 LOG Installing frappe
+2023-04-27 14:53:03,532 DEBUG cd /home/benches/erpnext_user && /home/benches/erpnext_user/env/bin/python -m pip install --quiet --upgrade -e /home/benches/erpnext_user/apps/frappe 
+2023-04-27 14:55:41,429 DEBUG cd /home/benches/erpnext_user/apps/frappe && yarn install
+2023-04-27 14:56:51,065 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-04-27 14:56:51,069 DEBUG cd erpnext_user && bench build
+2023-04-27 14:56:51,667 INFO /usr/local/bin/bench build
+2023-04-27 15:04:10,815 LOG setting up backups
+2023-04-27 15:04:10,863 LOG backups were set up
+2023-04-27 15:04:10,864 INFO Bench erpnext_user initialized
+2023-04-27 15:04:48,131 INFO /usr/local/bin/bench new-site erp.teleport13.com
+2023-04-27 15:15:32,779 INFO /usr/local/bin/bench use erp.teleport13.com
+2023-04-27 15:16:18,318 INFO /usr/local/bin/bench get-app --branch version-13 erpnext
+2023-04-27 15:16:19,332 LOG Getting erpnext
+2023-04-27 15:16:19,333 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git --branch version-13 --depth 1 --origin upstream
+2023-04-27 15:16:30,819 LOG Installing erpnext
+2023-04-27 15:16:31,917 DEBUG cd /home/benches/erpnext_user && /home/benches/erpnext_user/env/bin/python -m pip install --quiet --upgrade -e /home/benches/erpnext_user/apps/erpnext 
+2023-04-27 15:21:05,282 DEBUG cd /home/benches/erpnext_user/apps/erpnext && yarn install
+2023-04-27 15:21:13,075 DEBUG bench build --app erpnext
+2023-04-27 15:21:13,705 INFO /usr/local/bin/bench build --app erpnext
+2023-04-27 15:23:04,946 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-04-27 15:23:42,496 INFO /usr/local/bin/bench --site erp.teleport13.com install-app erpnext
+2023-04-27 15:32:08,976 INFO /usr/local/bin/bench new-app GymManagementSystem
+2023-04-27 15:32:09,001 LOG creating new app gymmanagementsystem
+2023-04-27 15:33:02,987 LOG Installing gymmanagementsystem
+2023-04-27 15:33:02,995 DEBUG cd /home/benches/erpnext_user && /home/benches/erpnext_user/env/bin/python -m pip install --quiet --upgrade -e /home/benches/erpnext_user/apps/gymmanagementsystem 
+2023-04-27 15:33:13,168 DEBUG bench build --app gymmanagementsystem
+2023-04-27 15:33:13,822 INFO /usr/local/bin/bench build --app gymmanagementsystem
+2023-04-27 15:33:24,228 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-04-27 15:33:32,050 INFO /usr/local/bin/bench start
+2023-04-27 15:33:34,809 INFO /usr/local/bin/bench serve --port 8000
+2023-04-27 15:33:34,833 INFO /usr/local/bin/bench watch
+2023-04-27 15:33:34,938 INFO /usr/local/bin/bench schedule
+2023-04-27 15:33:34,986 INFO /usr/local/bin/bench worker
+2023-04-27 15:44:46,389 INFO /usr/local/bin/bench --site erp.teleport13.com install-app gymmanagementsystem
+2023-04-27 15:46:54,286 INFO /usr/local/bin/bench start
+2023-04-27 15:46:58,482 INFO /usr/local/bin/bench serve --port 8000
+2023-04-27 15:46:58,485 INFO /usr/local/bin/bench watch
+2023-04-27 15:46:58,717 INFO /usr/local/bin/bench worker
+2023-04-27 15:46:58,723 INFO /usr/local/bin/bench schedule
+2023-04-27 15:51:53,368 INFO /usr/local/bin/bench start
+2023-04-27 15:51:56,468 INFO /usr/local/bin/bench watch
+2023-04-27 15:51:56,530 INFO /usr/local/bin/bench worker
+2023-04-27 15:51:56,538 INFO /usr/local/bin/bench serve --port 8000
+2023-04-27 15:51:56,685 INFO /usr/local/bin/bench schedule
+2023-04-27 16:35:16,939 INFO /usr/local/bin/bench start
+2023-04-27 16:35:19,543 INFO /usr/local/bin/bench serve --port 8000
+2023-04-27 16:35:19,602 INFO /usr/local/bin/bench schedule
+2023-04-27 16:35:19,641 INFO /usr/local/bin/bench watch
+2023-04-27 16:35:19,765 INFO /usr/local/bin/bench worker
+2023-04-27 17:21:46,551 INFO /usr/local/bin/bench start
+2023-04-27 17:21:49,689 INFO /usr/local/bin/bench serve --port 8000
+2023-04-27 17:21:49,773 INFO /usr/local/bin/bench watch
+2023-04-27 17:21:49,806 INFO /usr/local/bin/bench schedule
+2023-04-27 17:21:49,930 INFO /usr/local/bin/bench worker
+2023-04-27 17:31:49,369 INFO /usr/local/bin/bench --site erp.teleport13.com set-config server_script_enabled true
+2023-04-27 17:32:09,451 INFO /usr/local/bin/bench start
+2023-04-27 17:32:12,415 INFO /usr/local/bin/bench watch
+2023-04-27 17:32:12,628 INFO /usr/local/bin/bench serve --port 8000
+2023-04-27 17:32:12,649 INFO /usr/local/bin/bench schedule
+2023-04-27 17:32:12,787 INFO /usr/local/bin/bench worker
+2023-04-27 18:00:01,973 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-28 00:00:02,134 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-28 06:00:02,050 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-28 12:00:02,525 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-28 18:00:02,535 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-29 00:00:02,584 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-29 06:00:02,331 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-29 12:00:02,573 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-29 12:58:04,197 INFO /usr/local/bin/bench start
+2023-04-29 12:58:06,970 INFO /usr/local/bin/bench serve --port 8000
+2023-04-29 12:58:07,086 INFO /usr/local/bin/bench worker
+2023-04-29 12:58:07,097 INFO /usr/local/bin/bench watch
+2023-04-29 12:58:07,150 INFO /usr/local/bin/bench schedule
+2023-04-29 18:00:02,231 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-29 18:18:48,692 INFO /usr/local/bin/bench start
+2023-04-29 18:18:52,454 INFO /usr/local/bin/bench schedule
+2023-04-29 18:18:52,462 INFO /usr/local/bin/bench watch
+2023-04-29 18:18:52,467 INFO /usr/local/bin/bench serve --port 8000
+2023-04-29 18:18:52,617 INFO /usr/local/bin/bench worker
+2023-04-29 18:56:55,407 INFO /usr/local/bin/bench start
+2023-04-29 18:56:58,697 INFO /usr/local/bin/bench schedule
+2023-04-29 18:56:58,709 INFO /usr/local/bin/bench serve --port 8000
+2023-04-29 18:56:58,732 INFO /usr/local/bin/bench worker
+2023-04-29 18:56:58,744 INFO /usr/local/bin/bench watch
+2023-04-30 00:00:02,307 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-30 06:00:02,013 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-30 11:34:08,838 INFO /usr/local/bin/bench start
+2023-04-30 11:34:11,447 INFO /usr/local/bin/bench serve --port 8000
+2023-04-30 11:34:11,661 INFO /usr/local/bin/bench worker
+2023-04-30 11:34:11,674 INFO /usr/local/bin/bench schedule
+2023-04-30 11:34:11,689 INFO /usr/local/bin/bench watch
+2023-04-30 11:46:07,317 INFO /usr/local/bin/bench start
+2023-04-30 11:46:10,902 INFO /usr/local/bin/bench worker
+2023-04-30 11:46:11,022 INFO /usr/local/bin/bench serve --port 8000
+2023-04-30 11:46:11,029 INFO /usr/local/bin/bench schedule
+2023-04-30 11:46:11,105 INFO /usr/local/bin/bench watch
+2023-04-30 12:00:01,970 INFO /usr/local/bin/bench --verbose --site all backup
+2023-04-30 12:04:47,247 INFO /usr/local/bin/bench start
+2023-04-30 12:04:50,567 INFO /usr/local/bin/bench serve --port 8000
+2023-04-30 12:04:50,773 INFO /usr/local/bin/bench watch
+2023-04-30 12:04:50,796 INFO /usr/local/bin/bench schedule
+2023-04-30 12:04:50,870 INFO /usr/local/bin/bench worker
+2023-04-30 13:10:06,388 INFO /usr/local/bin/bench start
+2023-04-30 13:10:09,396 INFO /usr/local/bin/bench serve --port 8000
+2023-04-30 13:10:09,410 INFO /usr/local/bin/bench worker
+2023-04-30 13:10:09,482 INFO /usr/local/bin/bench watch
+2023-04-30 13:10:09,522 INFO /usr/local/bin/bench schedule
+2023-04-30 13:26:40,481 INFO /usr/local/bin/bench start
+2023-04-30 13:26:43,260 INFO /usr/local/bin/bench serve --port 8000
+2023-04-30 13:26:43,331 INFO /usr/local/bin/bench watch
+2023-04-30 13:26:43,397 INFO /usr/local/bin/bench schedule
+2023-04-30 13:26:43,440 INFO /usr/local/bin/bench worker
+2023-04-30 13:29:12,855 INFO /usr/local/bin/bench start
+2023-04-30 13:29:15,930 INFO /usr/local/bin/bench watch
+2023-04-30 13:29:15,982 INFO /usr/local/bin/bench serve --port 8000
+2023-04-30 13:29:16,035 INFO /usr/local/bin/bench worker
+2023-04-30 13:29:16,044 INFO /usr/local/bin/bench schedule
+2023-04-30 18:00:02,320 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-01 00:00:03,783 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-01 06:00:02,337 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-01 12:00:01,831 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-01 18:00:02,511 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-02 00:00:03,420 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-02 06:00:01,880 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-02 12:00:02,335 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-02 18:00:01,812 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-03 00:00:03,108 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-03 06:00:02,158 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-03 12:00:02,060 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-03 18:00:02,549 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-04 00:00:02,856 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-04 06:00:02,150 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-04 08:09:34,677 INFO /usr/local/bin/bench start
+2023-05-04 08:09:38,341 INFO /usr/local/bin/bench serve --port 8000
+2023-05-04 08:09:38,465 INFO /usr/local/bin/bench watch
+2023-05-04 08:09:38,510 INFO /usr/local/bin/bench worker
+2023-05-04 08:09:38,699 INFO /usr/local/bin/bench schedule
+2023-05-04 12:00:01,761 INFO /usr/local/bin/bench --verbose --site all backup
+2023-05-04 18:00:02,404 INFO /usr/local/bin/bench --verbose --site all backup
